@@ -105,3 +105,4 @@ This is handy if one wants to make changes both to files app and library:
 - sync project with gradle files
 
 Now every change in library can be directly used in files app.
+
